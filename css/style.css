@@ -1,0 +1,36 @@
+body { 
+font-family: Georgia; 
+}
+
+a { 
+color: white; 
+text-decoration: none; 
+}
+
+a.internal {
+color: black;
+text-decoration: underline;
+}
+
+h4 {
+color: rgb(141,124,99);
+font-size: 12px;
+padding-left: 10px;
+}
+
+h5 {
+color: black;
+font-size: 12px;
+font-style: italic;
+padding-left: 20px;
+}
+
+ol.sub {
+padding-left: 30px;
+list-style-type: lower-alpha;
+padding-bottom:10px;
+}
+
+li.prime {
+padding-bottom: 10px;
+}

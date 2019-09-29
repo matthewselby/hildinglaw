@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Hilding;Paul;;;
+FN:Paul Hilding 
+ORG:Hilding Law Firm
+ADR;WORK:;;501 West Broadway, Suite 1760;San Diego;CA;92101;
+TEL;WORK;VOICE:619-233-4200
+TEL;WORK;FAX:619-233-4211
+URL;WORK:http://www.hildinglaw.com/
+EMAIL;PREF;INTERNET:hilding@hildinglaw.com
+REV:20100413T15:23:46Z
+END:VCARD
