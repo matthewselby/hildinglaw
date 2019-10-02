@@ -3,6 +3,7 @@ http://hildinglaw.netlify.com/* http://www.hildinglaw.com/:splat 301!
 # http://hildinglaw.matthewselby.com/* http://www.hildinglaw.com/:splat 301!
 
 # Pages
+/.html http://www.hildinglaw.com 301!
 /pyle.shtml http://www.hildinglaw.com 301!
 /contact.shtml http://www.hildinglaw.com 301!
 /practice.shtml http://www.hildinglaw.com 301!
